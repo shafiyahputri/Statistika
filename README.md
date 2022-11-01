@@ -1,0 +1,2 @@
+# Statistika
+using R studio
